@@ -1,7 +1,5 @@
 # Arquitetura de Sistema de Logins para Venda de Ingressos do Rock in Rio
 
-![Imagem da Arquitetura](https://exemplo.com/caminho/para/imagem.jpg)
-
 Olá! Me chamo Nayara e sou a arquiteta responsável pelo sistema de logins para o site de venda de ingressos do Rock in Rio. Neste documento, vou apresentar a proposta de arquitetura que desenvolvi para garantir uma experiência de compra justa e eficiente, permitindo que apenas as pessoas que realmente receberão ingressos possam finalizar a transação.
 
 ## Visão Geral
